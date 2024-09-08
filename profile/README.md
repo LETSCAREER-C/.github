@@ -118,7 +118,7 @@ https://www.businesskorea.co.kr/news/articleView.html?idxno=106907
 
 https://n.news.naver.com/mnews/article/422/0000657417?sid=161
 
-### 렛츠커리어는 현재
+### ▶️ 렛츠커리어는 현재
 
 **커리어의 시작을 ‘함께’, ‘같이’한다는 슬로건**과 함께 아래와 같은 프로그램을 제공한다.
 
@@ -129,7 +129,7 @@ https://n.news.naver.com/mnews/article/422/0000657417?sid=161
 
 Core Value | Reliable, Motivating, Supportive
 
-### ▶ 렛츠커리어 SWOT 분석
+### ▶️ 렛츠커리어 SWOT 분석
 
 **Strengths**
 
