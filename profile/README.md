@@ -1,6 +1,6 @@
-# Letscareer C
+## Letscareer C
 
-**목차**
+# 목차
 
 ## [1. OVERVIEW](#1️-overview)
 
@@ -656,7 +656,7 @@ TO-BE
 
 ## 6️ 이탈률 개선 예측 및 임팩트
 
-## ② 솔루션 이후 예상 포지션
+### 솔루션 이후 예상 포지션
 
 <aside>
 
@@ -665,6 +665,10 @@ TO-BE
 </aside>
 
 ![솔루션이후예상포지션](https://github.com/user-attachments/assets/ee0cb8ab-778e-4a55-b5f3-7c5f0b4f0718)
+
+</aside>
+
+### 솔루션 이후 확보 가능한 잠재 유저 수
 
 ![image](https://github.com/user-attachments/assets/f38e8d19-723a-4e5e-9791-ee3ff7c1ee3b)
 
